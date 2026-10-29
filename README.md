@@ -1,9 +1,5 @@
 # Halo semuanya! 👋 Saya Ardhyatma H. Aryoto
 
-<p align="left">
-  <img src="image/Profile.jpg" alt="Profile Views" />
-</p>
-
 ### 👤 Tentang Saya
 Saya adalah seorang **Ahli Komputer dan Koki** yang berbasis di Indonesia. Saya fokus pada pembuatan aplikasi web yang interaktif dan responsif.
 
