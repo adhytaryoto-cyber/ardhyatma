@@ -1,7 +1,15 @@
-# ardhyatma_aryoto
-# ardhyatma_aryoto
-# ardhyatma_aryoto git add .
-#ardhyatma_aryoto
-# ardhyatma_aryoto
-# ardhyatma_aryoto
-ardhyatma_aryoto
+# Halo semuanya! 👋 Saya Ardhyatma H. Aryoto
+
+<p align="left">
+  <img src="image/Profile.jpg" alt="Profile Views" />
+</p>
+
+### 👤 Tentang Saya
+Saya adalah seorang **Ahli Komputer dan Koki** yang berbasis di Indonesia. Saya fokus pada pembuatan aplikasi web yang interaktif dan responsif.
+
+- 🔭 Saat ini saya sedang bekerja pada proyek **Membuat Gambar dan Video**
+- 🌱 Saya sedang memperdalam keahlian di bidang **Multimedia**
+- 💬 Tanyakan saya tentang **HTML / CSS**
+- 📫 Kontak saya melalui email: **adhyt.aryoto@gmail.com**
+
+---
