@@ -1,0 +1,11 @@
+# Halo semuanya! 👋 Saya Ardhyatma H. Aryoto
+
+### 👤 Tentang Saya
+Saya adalah seorang **Ahli Komputer dan Koki** yang berbasis di Indonesia. Saya fokus pada pembuatan aplikasi web yang interaktif dan responsif.
+
+- 🔭 Saat ini saya sedang bekerja pada proyek **Membuat Gambar dan Video**
+- 🌱 Saya sedang memperdalam keahlian di bidang **Multimedia**
+- 💬 Tanyakan saya tentang **HTML / CSS**
+- 📫 Kontak saya melalui email: **adhyt.aryoto@gmail.com**
+
+---
