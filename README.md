@@ -13,12 +13,9 @@ Saya adalah seorang **Ahli Komputer dan Koki** yang berbasis di Indonesia. Saya 
 ---
 
 ### 🖥️ Pekerjaan
-<img src="https://thenounproject.com/icon/photographer-8483733/"/>
-<img src="https://thenounproject.com/icon/image-edit-8099606/"/>
-<img src="https://thenounproject.com/icon/video-editor-8165307/"/>
-<img src="https://thenounproject.com/icon/presentation-7074205/"/>
-<img src="https://thenounproject.com/icon/website-8464404/"/>
-<img src="https://thenounproject.com/icon/animation-8160457/"/>
+Pekerjaan saya adalah photographer, Video Editing, Data Analis, Image Editing, Konten, Membuat 3D, Membuat Game, Membuat Website, Algoritma Pemrograman, Merakit Komputer, dll.
+
+---
 
 ### 🛠️ Tool Software
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
@@ -28,6 +25,8 @@ Saya adalah seorang **Ahli Komputer dan Koki** yang berbasis di Indonesia. Saya 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+
+---
 
 ### 📞 Contact
 ![https://www.youtube.com/@ardhyatmaaryoto1072](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
